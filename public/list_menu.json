@@ -1,0 +1,245 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://botresto-mikhel.herokuapp.com/img/ayam.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://linecorp.com"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Paket A",
+                "size": "lg",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Rp. 12.000 ,-",
+                "align": "end",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Nasi putih, Ayam goreng, Es Teh",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Pilih",
+                  "text": "Paket A"
+                },
+                "style": "primary"
+              }
+            ],
+            "spacing": "none",
+            "paddingTop": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://botresto-mikhel.herokuapp.com/img/ikanbakar.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://linecorp.com"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Paket B",
+                "size": "lg",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Rp. 15.000 ,-",
+                "align": "end",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Nasi putih, Ikan bakar, Es Teh",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Pilih",
+                  "text": "Paket B"
+                },
+                "style": "primary"
+              }
+            ],
+            "spacing": "none",
+            "paddingTop": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://botresto-mikhel.herokuapp.com/img/nasgor.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://linecorp.com"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Paket C",
+                "size": "lg",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Rp. 14.000 ,-",
+                "align": "end",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Nasi goreng, Telur, Es Teh",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Pilih",
+                  "text": "Paket C"
+                },
+                "style": "primary"
+              }
+            ],
+            "spacing": "none",
+            "paddingTop": "lg"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://botresto-mikhel.herokuapp.com/img/miegor.png",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://linecorp.com"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Paket D",
+                "size": "lg",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Rp. 13.000 ,-",
+                "align": "end",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mie goreng, Telur, Es Teh",
+            "margin": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Pilih",
+                  "text": "Paket D"
+                },
+                "style": "primary"
+              }
+            ],
+            "spacing": "none",
+            "paddingTop": "lg"
+          }
+        ]
+      }
+    }
+  ]
+}
